@@ -23,13 +23,6 @@ I am an 8th-grade developer focused on **low-level programming**, **game interna
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinar59101&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinar59101&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 How to reach me
 - **Focus:** Always open to collaborating on game modding or tool development projects.
 - **Goal:** Improving performance and security in game environments.
