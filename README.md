@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Çınar 👋
 
-<!--
-**cinar59101/cinar59101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Software Developer & Game Modding Enthusiast
 
-Here are some ideas to get you started:
+I am an 8th-grade developer focused on **low-level programming**, **game internals**, and **automation tools**. I enjoy exploring memory structures, building sleek UIs with ImGui, and creating cross-platform utilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+- **Frameworks/Libraries:** Dear ImGui, Rayfield UI, Fabric (Minecraft), Mixins
+- **Tools:** Cheat Engine, Visual Studio, IntelliJ IDEA, Git
+
+---
+
+### 🚀 Featured Projects
+
+- **Rift:** A custom Minecraft modification built with Java and Fabric.
+- **Nexus Code Searcher:** An integrated search engine and plugin for streamlined development.
+- **Universal Hubs:** High-performance script hubs with professional UI/UX designs.
+- **Game Trainers:** External utilities focused on memory manipulation and resource control.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinar59101&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinar59101&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 How to reach me
+- **Focus:** Always open to collaborating on game modding or tool development projects.
+- **Goal:** Improving performance and security in game environments.
+
+*"Turning logic into code, and code into power."*
