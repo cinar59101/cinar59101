@@ -23,7 +23,14 @@ I am an 8th-grade developer focused on **low-level programming**, **game interna
 ---
 
 ### 📫 How to reach me
+
 - **Focus:** Always open to collaborating on game modding or tool development projects.
 - **Goal:** Improving performance and security in game environments.
+
+<a href="https://discord.com/users/858724654566473728" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+
+<br>
 
 *"Turning logic into code, and code into power."*
