@@ -16,10 +16,9 @@ I am an 8th-grade developer focused on **low-level programming**, **game interna
 
 ### 🚀 Featured Projects
 
-- **Rift:** A custom Minecraft modification built with Java and Fabric.
-- **Nexus Code Searcher:** An integrated search engine and plugin for streamlined development.
-- **Universal Hubs:** High-performance script hubs with professional UI/UX designs.
-- **Game Trainers:** External utilities focused on memory manipulation and resource control.
+- **[Color-Picker](https://github.com/cinar59101/Color-Picker):** A lightweight, high-performance utility built with C++, DirectX 11, and Dear ImGui. Designed for developers and designers to capture colors seamlessly.
+- **[Speedsoft](https://github.com/cinar59101/Speedsoft):** Advanced performance-driven modification for Bloons TD 6. Featuring infinite resources, supreme tower scaling, and an optimized zero-dependency architecture.
+- **[Reconnaissance](https://github.com/cinar59101/Reconnaissance):** A lightweight OSINT CLI framework for username enumeration across multiple platforms, built with Python.
 
 ---
 
