@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Developer & Game Modding Enthusiast
 
-I am an 8th-grade student developer focused on **low-level programming**, **game internals**, and **automation tools**. I enjoy exploring memory structures, building sleek UIs with ImGui, and creating cross-platform utilities.
+I am an student developer focused on **low-level programming**, **game internals**, and **automation tools**. I enjoy exploring memory structures, building sleek UIs with ImGui, and creating cross-platform utilities.
 
 ---
 
