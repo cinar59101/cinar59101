@@ -42,43 +42,11 @@
 ---
 
 ## Table of Contents
-- [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
 - [Gallery](#gallery)
 - [Responsible Use & Disclosure](#responsible-use--disclosure)
 - [License](#license)
 - [Contact](#contact)
-
----
-
-## Featured Projects
-
-<div align="center">
-  <table width="100%" style="max-width:960px;">
-    <tr>
-      <td width="50%" valign="top" style="padding:10px;">
-        <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 18px rgba(2,6,23,0.2);">
-          <img src="https://via.placeholder.com/800x420.png?text=Project+Screenshot" alt="Project screenshot" width="100%" />
-          <div style="padding:12px; background: #0f172a; color:#cbd5e1;">
-            <h3 style="margin:0 0 6px 0;">ProjectName</h3>
-            <p style="margin:0 0 8px 0; color:#94a3b8;">High-performance desktop utility for runtime analysis and tooling. Built with C++ and Qt.</p>
-            <p style="margin:0;"><a href="https://github.com/cinar59101/projectname">View on GitHub →</a></p>
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="top" style="padding:10px;">
-        <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 18px rgba(2,6,23,0.2);">
-          <img src="https://via.placeholder.com/800x420.png?text=Mod+Screenshot" alt="Mod screenshot" width="100%" />
-          <div style="padding:12px; background: #0f172a; color:#cbd5e1;">
-            <h3 style="margin:0 0 6px 0;">EngineMod</h3>
-            <p style="margin:0 0 8px 0; color:#94a3b8;">Plugin framework and memory tooling for game engines. Includes safe sandboxed examples for learning.</p>
-            <p style="margin:0;"><a href="https://github.com/cinar59101/enginemod">View on GitHub →</a></p>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
