@@ -1,78 +1,111 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CodebyCinar&fontSize=42&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=CodebyCinar&fontSize=48&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
-<!-- TYPING EFFECT SLOGAN -->
+<!-- PROFILE CARD -->
+<div align="center" style="margin-top: 8px;">
+  <img src="https://github.com/cinar59101.png" alt="avatar" width="120" style="border-radius: 50%; border: 4px solid rgba(56,189,248,0.15);" />
+  <h1 style="margin:8px 0 4px 0;">CodebyCinar <sup>👨‍💻</sup></h1>
+  <p style="margin:0 0 8px 0; color:#94a3b8; max-width:720px;">Game modding, reverse engineering, and low-level systems developer — building desktop tools, security research prototypes, and embedded firmware.</p>
+
+  <!-- Social badges -->
+  <p>
+    <a href="https://github.com/cinar59101"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/cinar59101?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" alt="Repositories" /></a>
+    <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-contact-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
 <div align="center">
-  <a href="https://git.io/typing-svg" title="Typing SVG">
-    <img alt="Slogan: Game Modding & Reverse Engineering; Cybersecurity; Low-level Systems" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Game+Modding+%26+Reverse+Engineering;Cybersecurity;Low-level+Systems" />
-  </a>
+  <!-- Quick intro cards -->
+  <table width="100%" style="max-width:900px;">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Focus-Game%20Modding%20%26%20RE-38BDF8?style=for-the-badge&logo=unity" alt="Modding" />
+        <p style="color:#94a3b8;">Engine analysis, runtime patching, and plugin systems.</p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Expertise-C%2B%2B%20%7C%20Rust-000000?style=for-the-badge&logo=c%2B%2B" alt="Languages" />
+        <p style="color:#94a3b8;">Native apps, tooling, and performance-critical systems.</p>
+      </td>
+      <td width="33%" align="center">
+        <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20Pico-E7352C?style=for-the-badge&logo=arduino" alt="Hardware" />
+        <p style="color:#94a3b8;">Firmware prototypes and integrated devices.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
+---
 
 ## Table of Contents
-- [About Me](#about-me)
-- [Areas of Expertise](#areas-of-expertise)
 - [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
-- [GitHub Stats](#github-stats)
+- [Gallery](#gallery)
 - [Responsible Use & Disclosure](#responsible-use--disclosure)
 - [License](#license)
-
----
-
-## About Me
-
-I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-level system programming, and reverse engineering. I enjoy analyzing binaries, writing security/desktop utilities, designing embedded firmware, and building tools that help understand how software and hardware work.
-
----
-
-## Areas of Expertise
-
-- **Game Modding & Reverse Engineering:** Game engine analysis, binary dissection, custom modding (C++, Rust, Luau), memory manipulation, and Win32 API interactions.
-- **Cybersecurity & Low-Level Dev:** Native Android security research, APK analysis, standalone utility builds, and low-dependency system tools.
-- **Software & Hardware:** Native desktop apps (C++, Rust, Qt, ImGui, Tauri), mobile apps (Jetpack Compose), and embedded firmware (ESP32, Raspberry Pi Pico, Arduino).
+- [Contact](#contact)
 
 ---
 
 ## Featured Projects
 
-* 🛠️ **Desktop & System Utilities:** High-performance desktop tools and native security components built with C++, Rust, and Qt.
-* 🎮 **Game Mods & Plugins:** Custom game extensions, memory manipulation tools, and engine-level modding frameworks.
-* ⚡ **Embedded Hardware Prototypes:** Microcontroller-driven hardware integrations and firmware built for ESP32 and Raspberry Pi Pico.
+<div align="center">
+  <table width="100%" style="max-width:960px;">
+    <tr>
+      <td width="50%" valign="top" style="padding:10px;">
+        <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 18px rgba(2,6,23,0.2);">
+          <img src="https://via.placeholder.com/800x420.png?text=Project+Screenshot" alt="Project screenshot" width="100%" />
+          <div style="padding:12px; background: #0f172a; color:#cbd5e1;">
+            <h3 style="margin:0 0 6px 0;">ProjectName</h3>
+            <p style="margin:0 0 8px 0; color:#94a3b8;">High-performance desktop utility for runtime analysis and tooling. Built with C++ and Qt.</p>
+            <p style="margin:0;"><a href="https://github.com/cinar59101/projectname">View on GitHub →</a></p>
+          </div>
+        </div>
+      </td>
+      <td width="50%" valign="top" style="padding:10px;">
+        <div style="border-radius:12px; overflow:hidden; box-shadow:0 6px 18px rgba(2,6,23,0.2);">
+          <img src="https://via.placeholder.com/800x420.png?text=Mod+Screenshot" alt="Mod screenshot" width="100%" />
+          <div style="padding:12px; background: #0f172a; color:#cbd5e1;">
+            <h3 style="margin:0 0 6px 0;">EngineMod</h3>
+            <p style="margin:0 0 8px 0; color:#94a3b8;">Plugin framework and memory tooling for game engines. Includes safe sandboxed examples for learning.</p>
+            <p style="margin:0;"><a href="https://github.com/cinar59101/enginemod">View on GitHub →</a></p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Tech Stack
 
-### Languages
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Language" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /> <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
-
-### Frameworks & Tools
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" /> <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Jetpack Compose" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  </p>
+</div>
 
 ---
 
-## GitHub Stats
+## Gallery
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cinar59101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinar59101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cinar59101&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://camo.githubusercontent.com/placeholder/000000/600x120?text=Animated+GIF" alt="animated demo" width="90%" />
+  <p style="color:#94a3b8;">Short demo clips and screenshots (replace placeholders with real images or GIFs from projects)</p>
 </div>
 
 ---
 
 ## Responsible Use & Disclosure
-
-Purpose
 
 These projects and code examples are provided to support learning, research, and legitimate development activities in areas such as game modding, reverse engineering, and systems/security tooling. They are not intended to facilitate or encourage unlawful or unethical activities.
 
@@ -104,17 +137,20 @@ If you discover a security vulnerability in code published here, please follow r
 2. Report the issue privately by opening a private issue or by emailing the contact listed on my GitHub profile (or the address in this repository's metadata).
 3. Include a clear description of the vulnerability, steps to reproduce, affected versions, and suggested mitigation if available.
 
-License
-
-This repository is made available under the terms of the MIT License. See the LICENSE file at the repository root for the full text.
-
 ---
 
 ## License
 
-This repository is provided under the MIT License — see the bundled LICENSE file for full text.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+This repository is provided under the MIT License — see the LICENSE file at the repository root for the full text.
 
 ---
+
+## Contact
+
+- GitHub: [cinar59101](https://github.com/cinar59101)
+- Email: contact via GitHub profile
 
 <div align="center">
   <p>👁️ Profile Views</p>
