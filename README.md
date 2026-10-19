@@ -18,21 +18,22 @@
 - [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
 - [GitHub Stats](#github-stats)
-- [Disclaimer](#disclaimer)
+- [Disclaimer & Ethical Use](#disclaimer--ethical-use)
+- [License](#license)
 
 ---
 
 ## About Me
 
-I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-level system programming, and reverse engineering. I enjoy analyzing binaries, writing security/desktop utilities, developing custom mods, and working with embedded hardware.
+I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-level system programming, and reverse engineering. I enjoy analyzing binaries, writing security/desktop utilities, designing embedded firmware, and building tools that help understand how software and hardware work.
 
 ---
 
 ## Areas of Expertise
 
 - **Game Modding & Reverse Engineering:** Game engine analysis, binary dissection, custom modding (C++, Rust, Luau), memory manipulation, and Win32 API interactions.
-- **Cybersecurity & Low-Level Dev:** Native Android security research, APK parsing, standalone utility builds, and low-dependency system tools.
-- **Software & Hardware:** Native desktop apps (C++, Rust, Qt, ImGui, Tauri), mobile apps (Jetpack Compose), and embedded firmware (ESP32, Pico, Arduino).
+- **Cybersecurity & Low-Level Dev:** Native Android security research, APK analysis, standalone utility builds, and low-dependency system tools.
+- **Software & Hardware:** Native desktop apps (C++, Rust, Qt, ImGui, Tauri), mobile apps (Jetpack Compose), and embedded firmware (ESP32, Raspberry Pi Pico, Arduino).
 
 ---
 
@@ -47,10 +48,10 @@ I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-
 ## Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Language" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Programming Language" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust Programming Language" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Programming Language" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Scripting Language" /> <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Language" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Programming Language" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /> <img src="https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" />
 
 ### Frameworks & Tools
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" /> <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri Framework" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose UI Toolkit" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Microcontroller" /> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora Linux OS" />
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt Framework" /> <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" /> <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Jetpack Compose" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 
 ---
 
@@ -69,9 +70,22 @@ I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-
 
 ---
 
-## Disclaimer
+## Disclaimer & Ethical Use
 
-The security, reverse engineering, and modding tools hosted on this profile are developed strictly for educational, research, and authorized personal testing purposes.
+All security, reverse engineering, modding tools, code, and examples on this profile are provided strictly for educational, research, and authorized testing purposes only. By using any code or instructions found here you agree to the following:
+
+- Use only on systems and software where you have explicit permission to test, modify, or analyze.
+- Do not use these tools or techniques for malicious activities, unlawful access, or to infringe on others' rights.
+- You are responsible for ensuring that your use complies with all applicable laws, regulations, and third-party terms of service.
+- No warranty: the code is provided "as-is" without any express or implied warranties. The author is not liable for any damages or misuse.
+
+If you're unsure whether a particular action is permitted, please contact me before proceeding.
+
+---
+
+## License
+
+This repository is provided under the MIT License — see the bundled LICENSE file for full text.
 
 ---
 
