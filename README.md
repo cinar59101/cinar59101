@@ -18,7 +18,7 @@
 - [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
 - [GitHub Stats](#github-stats)
-- [Disclaimer & Ethical Use](#disclaimer--ethical-use)
+- [Responsible Use & Disclosure](#responsible-use--disclosure)
 - [License](#license)
 
 ---
@@ -70,16 +70,43 @@ I'm a self-taught developer focused on **game modding**, **cybersecurity**, low-
 
 ---
 
-## Disclaimer & Ethical Use
+## Responsible Use & Disclosure
 
-All security, reverse engineering, modding tools, code, and examples on this profile are provided strictly for educational, research, and authorized testing purposes only. By using any code or instructions found here you agree to the following:
+Purpose
 
-- Use only on systems and software where you have explicit permission to test, modify, or analyze.
-- Do not use these tools or techniques for malicious activities, unlawful access, or to infringe on others' rights.
-- You are responsible for ensuring that your use complies with all applicable laws, regulations, and third-party terms of service.
-- No warranty: the code is provided "as-is" without any express or implied warranties. The author is not liable for any damages or misuse.
+These projects and code examples are provided to support learning, research, and legitimate development activities in areas such as game modding, reverse engineering, and systems/security tooling. They are not intended to facilitate or encourage unlawful or unethical activities.
 
-If you're unsure whether a particular action is permitted, please contact me before proceeding.
+Acceptable Use
+
+- Use the code and techniques only on systems, networks, or applications for which you have explicit authorization.
+- Use examples for education, defensive research, debugging, interoperability, or otherwise improving security and reliability.
+
+Prohibited Use
+
+- Do not use any material from this repository to obtain unauthorized access, to tamper with systems or data, or to distribute malware.
+- Do not use these materials to violate software licenses, terms of service, privacy rights, or applicable law.
+
+Compliance and Responsibility
+
+- You are solely responsible for determining whether your intended use is lawful in your jurisdiction and for obtaining any necessary permissions.
+- If you intend to publish derivative works or redistribute components from this repository, retain the original copyright and license notices and comply with the license terms.
+
+No Warranty and Limitation of Liability
+
+- All content is provided "as is". To the maximum extent permitted by applicable law, I disclaim all warranties, whether express, implied, statutory, or otherwise, including without limitation any implied warranties of merchantability, fitness for a particular purpose, and noninfringement.
+- I shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising from the use of or inability to use the content, even if advised of the possibility of such damages.
+
+Responsible Disclosure
+
+If you discover a security vulnerability in code published here, please follow responsible disclosure practices:
+
+1. Do not publicize the vulnerability before a reasonable remediation window has been provided.
+2. Report the issue privately by opening a private issue or by emailing the contact listed on my GitHub profile (or the address in this repository's metadata).
+3. Include a clear description of the vulnerability, steps to reproduce, affected versions, and suggested mitigation if available.
+
+License
+
+This repository is made available under the terms of the MIT License. See the LICENSE file at the repository root for the full text.
 
 ---
 
